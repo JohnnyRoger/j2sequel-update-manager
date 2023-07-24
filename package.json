@@ -1,0 +1,21 @@
+{
+  "name": "j2sequel",
+  "version": "1.0.0",
+  "description": "Json to SQL update manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyRoger/j2sequel-update-manager.git"
+  },
+  "author": "Johnny Roger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnyRoger/j2sequel-update-manager/issues"
+  },
+  "homepage": "https://github.com/JohnnyRoger/j2sequel-update-manager#readme"
+}
